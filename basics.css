@@ -1,0 +1,54 @@
+body{
+  background: url(galaxy.jpg.png) rgb(22,26,70) repeat-x;
+}
+.r1{
+  height: 300px;
+  position:absolute;
+  top:550px;
+  left: 400px;
+  transform: rotateZ(45deg);
+}
+.cody{
+  height: 250px;
+  position:absolute;
+  top:550px;
+  left: -15%;
+}
+
+
+.conv1{
+  position:absolute;
+  height:200px;
+  width:250px;
+  top: 420px;
+  left:550px;
+  opacity: 0;
+}
+.conv3{
+  position:absolute;
+  height:200px;
+  width:250px;
+  top: 420px;
+  left:550px;
+  opacity: 0;
+}
+
+
+.conv2{
+  position:absolute;
+  height:150px;
+  width:300px;
+  top: 510px;
+  left:780px;
+  opacity:0;
+
+}
+.conv4{
+  position:absolute;
+  height:150px;
+  width:300px;
+  top: 510px;
+  left:780px;
+  opacity:0;
+
+}
